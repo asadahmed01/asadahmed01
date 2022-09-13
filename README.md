@@ -7,7 +7,7 @@ Hello World 👋, I am Asad
 I'm a Full Stack developer from Canada. I love coding and working on impactful projects. I like playing and watching soccer ⚽. I am big fan of Manchester United. When I am free I like to hike and watch movies. My favorite movie Prison Break 👮🏽‍♀️⛓️.
 
 ## What am I doing now?
-I am currently working as Full Stack Developer at Harled Inc.
+I am currently working as Full Stack Developer at [Harled Inc.](https://harled.ca/)
 When it comes to technology, my newest favorite stack is Ruby on Rails which we use daily at Harled to modernize and digitize the Royan Canadian Armed Forces. I also like React and NodeJS, and who doesn't love Python 🐍, right?
 
 ## Currently
