@@ -16,7 +16,15 @@ When it comes to technology, my newest favorite stack is Ruby on Rails which we 
 - - I'm currently reading about system designs
 - 💞️ I’m looking to collaborate on any kind of personal projects.
 
-## How to reach me?
+## My approach to problem solving 💻 
+Finding a suitable solution for issues can be fun, rewarding and sometimes daunting. 
+I like to research and learn more about the problem before diving in.
+However, not all issues are created equal and some may call for slight approach.
+
+## My most produtive times ⏰ 
+Many things can improve or sink productivity, however, when it comes to the time of the day, I am most productive between mid-morning and noon, as well as late afternoon and early evening.
+
+## How to reach me 💬 
 The best way to reach me is through my [LinkedIn](https://www.linkedin.com/in/asad-ahmed-8247a5144/) profile
 You can also reach me through my personal [website](https://asadnaser.com/)
 
