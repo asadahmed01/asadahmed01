@@ -16,4 +16,4 @@ Outside the Code: Soccer fan, movie enthusiast, and a lover of the great outdoor
 I’m always keen on emerging technologies like AI and ML, and I'm open to collaboration on personal projects. Continually learning and evolving, I aim to contribute positively and meaningfully to the tech world and beyond.
 
 ## 📞 Let’s Chat
-Whether it's tech, sports, or a shared love for nature, I'm here to connect. Find me on LinkedIn[https://www.linkedin.com/in/asad-a-ahmed/]
+Whether it's tech, sports, or a shared love for nature, I'm here to connect. Find me on [LinkedIn](https://www.linkedin.com/in/asad-a-ahmed/).
