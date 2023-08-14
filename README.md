@@ -1,30 +1,19 @@
+## Hi, I'm Asad! 🧢⚽
+A Full Stack Developer. I've found my calling in coding, problem-solving, and creating impactful projects. Outside of my digital domain, you might find me hiking the trails, watching a soccer (real football 🤷‍♂️) match.
 
+🎓 My Professional Journey
+As a Full Stack Developer, I'm passionate about weaving code and creativity to build software that makes a difference. My days are filled with developing, testing, and shipping features and fixes, working across the entire stack. From Ruby on Rails to JavaScript, I craft solutions tailored to unique needs. My role goes beyond coding – I love working in teams, taking on various roles, and striving to make a meaningful difference through creativity and dedication.
 
-## Who am I? 
+⚡ What Drives Me
+The challenge and satisfaction of solving problems, the joy of collaboration, and yes, a well-brewed cup of coffee. Whether it's a complex coding puzzle or a nature trail, I thrive on exploration and discovery.
 
-Hello World 👋, I am Asad
- 
-I'm a Full Stack developer from Canada. I love coding and working on impactful projects. I like playing and watching soccer ⚽. I am a big fan of Manchester United. When I am free I like to hike and watch movies. My favorite movie is Prison Break 👮🏽‍♀️⛓️.
+🏐 My Playbook
+Morning Magic: Most productive between mid-morning and noon, and late afternoon to early evening.
+Team Synergy: Excellence for me means working closely with my team, aligning skills, and building relationships along the way.
+Balance of Speed & Quality: I approach work with agility and attention to detail, keeping the focus on client needs.
+Outside the Code: Soccer fan, movie enthusiast, and a lover of the great outdoors.
+💭 The Bigger Picture
+I’m always keen on emerging technologies like AI and ML, and I'm open to collaboration on personal projects. Continually learning and evolving, I aim to contribute positively and meaningfully to the tech world and beyond.
 
-## What am I doing now?
-I am currently working as Full Stack Developer at [Harled Inc.](https://harled.ca/).
-When it comes to technology, my newest favorite stack is Ruby on Rails which we use daily at Harled to modernize and digitize the Royal Canadian Air Force. I also like React and NodeJS, and who doesn't love Python 🐍, right?
-
-## Currently
-- 👀 I’m interested in emerging technologies such as AI and ML and solving problems with coding.
-- 🌱 I’m currently learning more about Ruby on Rails and its ecosystem.
-- I'm currently reading about system designs
-- 💞️ I’m looking to collaborate on any kind of personal projects.
-
-## My approach to problem solving 💻 
-Finding a suitable solution for issues can be fun, rewarding and sometimes daunting. 
-I like to research and learn more about the problem before diving in.
-However, not all issues are created equal and some may call for a slightly different approach.
-
-## My most productive times ⏰ 
-Many things can improve or sink productivity, however, when it comes to the time of the day, I am most productive between mid-morning and noon, as well as late afternoon and early evening.
-
-## How to reach me 💬 
-The best way to reach me is through my [LinkedIn](https://www.linkedin.com/in/asad-ahmed-8247a5144/) profile
-You can also reach me through my personal [website](https://asadnaser.com/)
-
+📞 Let’s Chat
+Whether it's tech, sports, or a shared love for nature, I'm here to connect. Find me on LinkedIn[https://www.linkedin.com/in/asad-a-ahmed/]
