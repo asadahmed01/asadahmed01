@@ -15,5 +15,10 @@ Outside the Code: Soccer fan, movie enthusiast, and a lover of the great outdoor
 ## 🌱 Growth Path
 I’m always keen on emerging technologies like AI and ML, and would love to collaborate on personal projects in these areas.
 
+## ADO Contribution Graph
+
+![Screenshot 2023-10-13 at 6 01 07 PM](https://github.com/asadahmed01/asadahmed01/assets/30945757/b4f2fc01-c613-480b-a0f8-282e3f997aab)
+
+
 ## 📞 Let’s Chat
 Whether it's tech, sports, or a shared love for nature, I'm here to connect. Find me on [LinkedIn](https://www.linkedin.com/in/asad-a-ahmed/).
